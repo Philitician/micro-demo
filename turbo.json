@@ -13,5 +13,5 @@
     }
   },
   "globalDotEnv": [".env"],
-  "globalEnv": ["NEXT_PUBLIC_DOCS_URL"]
+  "globalEnv": ["NEXT_PUBLIC_DOCS_URL", "NEXT_PUBLIC_WEB_URL"]
 }
