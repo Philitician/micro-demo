@@ -5,7 +5,7 @@ module.exports = {
     return [
       {
         source: "/docs:path*",
-        destination: `https://micro-demo-docs.vercel.app/:path*`,
+        destination: "https://micro-demo-docs.vercel.app/:path*",
       },
     ];
   },
