@@ -5,7 +5,7 @@ module.exports = {
     return [
       {
         source: "/docs:path*",
-        destination: `${process.env.NEXT_PUBLIC_DOCS_URL}/:path*`,
+        destination: `https://micro-demo-docs.vercel.app/:path*`,
       },
     ];
   },
